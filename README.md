@@ -1,5 +1,12 @@
 # phly-expressive-configfactory
 
+> ## Abandoned
+>
+> This package is abandoned as of 2020-01-14. Users are encouraged to migrate to
+> [Laminas](https://getlaminas.org) and to use
+> [phly/phly-configfactory](https://github.com/phly/phly-configfactory) as a
+> replacement for this package.
+
 [![Build Status](https://secure.travis-ci.org/phly/phly-expressive-configfactory.svg?branch=master)](https://secure.travis-ci.org/phly/phly-expressive-configfactory)
 [![Coverage Status](https://coveralls.io/repos/github/phly/phly-expressive-configfactory/badge.svg?branch=master)](https://coveralls.io/github/phly/phly-expressive-configfactory?branch=master)
 
